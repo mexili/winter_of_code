@@ -5,21 +5,45 @@
 Winter of Code is a program aimed to increase participation for the Google Summer of Code program among students in colleges and universities.
 Winter of Code is here to light up your winter spirits with the wide world of open source development. This initiative aims to prepare you for the grand Google Summer of Code. Join us for a month-long programming project with an open-source organization.
 
-As a part of the Winter of Code, students are paired with mentors from the participating organisation. This initiative aims at developing your skills in real-world software development in a wide range of specializations. In turn, the participating organisation gets to know your potential and also gives you the correct exposure that you need i your formative years. Above all, we hope you get encouraged into the world of open source and develop more code for the benefit of all.
+As a part of the Winter of Code, students are paired with mentors. This initiative aims at developing your skills in real-world software development in a wide range of specializations. In turn, the participating organisation gets to know your potential and also gives you the correct exposure that you need i your formative years. Above all, we hope you get encouraged into the world of open source and develop more code for the benefit of all.
 
-Let's Build Something Awesome Together
-Developer Students Club of NSEC brings to you Winter of Code which is a month-long extravaganza of Open Source contribution, bringing together students, organisations and mentors to build amazing projects together. Here is what the program has to offer for students, organizations, and mentors.
+Let's Build Something Awesome Together !!
 
-## How does the program works illustrations
+## How does the program works
 
 ### Students
 
-Students who are interested can register for the Winter of Code by filling a form. Students who are selected will work with mentors of the organization that they are accepted for. If accepted, students amalgamate with their organizations prior to the start of coding and learn more about their organization’s community. Students then have one month to code and meet the deadlines agreed upon with their mentors. On successful completion of the program students will be rewarded with some cool schwags.
+Students who are interested can register for the Winter of Code by filling a form below. Every student is eligible to participate in winter of code. They can pick any project as per their interest and contribute to it. For every pull request, mentors will assign a score. These scores will help students climb the leaderboard. On successful completion of the program students will be rewarded with some cool schwags.
 
-### Organisations
-Open source organizations can apply to be mentor organizations. Once accepted, organizations discuss possible ideas with students and then decide on the proposals they wish to mentor for the winter. They provide feedback to help guide each student through the program. Mentors and students work together to determine appropriate milestones and requirements for the winter. Mentor interaction is a vital part of the program.
+Student registration link: 
 
 ### Mentors
 
-Mentors guide the students throughout their projects and review their code samples multiple times. They provide valuable feedback and suggest possible improvements to the code. They also determine if a student has successfully completed the Winter of code 2020 project. Students are then notified of the pass/fail status and schwags are delivered accordingly.n
+Apart from our in-house projects, we invite people who have built a project of their own and want some contributors in it to participate in winter of code. Mentors guide the students throughout their projects and review their code samples. They provide valuable feedback and suggest possible improvements to the code. They also assign a score according to the following metric:
+| Issue      | Score |
+| ----------- | ----------- |
+| Easy      | 25       |
+| Medium   | 50        |
+| Hard    | 100        |
+
+Mentor registration link: 
+
+### Leaderboard
+Students participating will contribute to the projects and in turn receive a score for their pull requests. These scores will be summed up and will be shown on our winter of code leaderboard. We will then have prizes for our top contributors.
+
+## Timeline
+
+The winter of code program will run from Feb 1 2021 to Feb 28 2021
+
+## Projects
+
+### [SKRIBBL](https://github.com/mexili/skribbl)
+Skribbl T-Shirts online via free hand drawing on canvas or adding a text. You can also view the skribbl history that highlights the selected skribbl. You can share your T-Shirt on various social media platforms with your friends.
+
+### [INCOGLY](https://github.com/mexili/incogly)
+Incog.ly is a peer to peer video conferencing app which keeps your identity anonymous. With the feel by avatarifying the remote side into a character with the power of emotions and expressions.
+
+### [CSSIFY](https://github.com/mexili/cssify)
+CSSify provides a solution to all these problems, by offering a rock solid base which is customisable in all it's aspects. Common tasks such as defining layouts, brand colors, spacing utilities, breakpoints, typography, etc can now be completed with a few clicks with a live preview- enormously boosting your creative speed.
+
 
