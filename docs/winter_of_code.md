@@ -15,18 +15,32 @@ Let's Build Something Awesome Together !!
 
 Students who are interested can register for the Winter of Code by filling a form below. Every student is eligible to participate in winter of code. They can pick any project as per their interest and contribute to it. For every pull request, mentors will assign a score. These scores will help students climb the leaderboard. On successful completion of the program students will be rewarded with some cool schwags.
 
-Student registration link: 
+Student registration link: https://forms.gle/k2syZR2RYdBnm8w28
 
 ### Mentors
 
 Apart from our in-house projects, we invite people who have built a project of their own and want some contributors in it to participate in winter of code. Mentors guide the students throughout their projects and review their code samples. They provide valuable feedback and suggest possible improvements to the code. They also assign a score according to the following metric:
-| Issue      | Score |
-| ----------- | ----------- |
-| Easy      | 25       |
-| Medium   | 50        |
-| Hard    | 100        |
 
-Mentor registration link: 
+<table>
+  <tr>
+    <th>Difficulty</th>
+    <th>Score</th>
+  </tr>
+  <tr>
+    <td>Easy</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>Medium</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Hard</td>
+    <td>100</td>
+  </tr>
+</table>
+
+Mentor registration link: https://forms.gle/k2syZR2RYdBnm8w28
 
 ### Leaderboard
 Students participating will contribute to the projects and in turn receive a score for their pull requests. These scores will be summed up and will be shown on our winter of code leaderboard. We will then have prizes for our top contributors.
