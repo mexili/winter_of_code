@@ -36,10 +36,7 @@
       var bootCode = 'var globalVariable = "leon"'
       var globalVariable = "leon"
 
-      window.$docsify = {
-        name: 'docsify-demo-box-react',
-        repo: 'https://github.com/njleonzhang/docsify-demo-box-react',
-        plugins: [
+      window.$docsify = {plugins: [
           DemoBoxReact.create(jsResources, cssResources, bootCode)
         ]
       }
