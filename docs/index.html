@@ -17,18 +17,26 @@
   <body>
     <div id="app"></div>
     <script>
-      var jsResources = '<scr' + 'ipt src="//cdn.bootcss.com/react/15.6.1/react.js"></scr' + 'ipt>\n' +
-        '<scr' + 'ipt src="//cdn.bootcss.com/react/15.6.1/react-dom.js"></scr' + 'ipt>'
-      var cssResources = '@import url("//cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css");'
-      var bootCode = 'var globalVariable = "leon"'
-      var globalVariable = "leon"
       window.$docsify = {
         name: "mexili",
         repo: "",
         loadSidebar: true,
-//         plugins: [
-//           DemoBoxReact.create(jsResources, cssResources, bootCode)
-//         ]
+        markdown: {
+          gfm: true,
+          tables: true,
+        },
+        plugins: [
+          (function () {
+            var jsResources = [
+              '//cdn.bootcss.com/react/15.6.1/react.js',
+              '//cdn.bootcss.com/react/15.6.1/react-dom.js',
+              '//unpkg.com/@sodalife/soui-react',
+            ].map(function (url) {
+              return '<script src="' + url + '"><' + '/script>'
+            }).join('\n')
+            return DemoBoxReact.create(jsResources)
+          })()
+        ],
       };
     </script>
     <!-- Docsify v4 -->
