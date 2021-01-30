@@ -13,10 +13,9 @@
       }
     }
     componentWillMount () {
-      fetch('https://wocleaderboard-backend.herokuapp.com/getLeaderBoard').then((res) => {
-        console.log(res);
-        this.setState({ data: res});
-      })
+      fetch('https://wocleaderboard-backend.herokuapp.com/getLeaderBoard')
+        .then(response => response.json())
+        .then(data => this.setState({ data: data}));
     }
     render() {
       console.log(this.state.data);
