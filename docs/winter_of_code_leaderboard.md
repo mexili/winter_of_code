@@ -21,7 +21,7 @@
       console.log(this.state.data);
       return (
         <div>
-          <table style="width:100%">
+          <table style={{"width" : "100%"}}>
             <tr>
               <th>Github Username</th>
               <th>Score</th>
