@@ -14,11 +14,12 @@
     }
     componentWillMount () {
       fetch('https://wocleaderboard-backend.herokuapp.com/getLeaderBoard').then((res) => {
+        console.log(res);
         this.setState({ data: res});
       })
     }
     render() {
-    console.log(res);
+      console.log(this.state.data);
       return (
         <div>
           <table style="width:100%">
