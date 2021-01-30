@@ -30,7 +30,7 @@
             this.state.data.map((el) => {
               return (
               <tr>
-                <td><a href="https://github.com/" + {el.key}>{el.key}</a></td>
+                <td><a href={"https://github.com/" + el.key}>{el.key}</a></td>
                 <td>{Math.abs(el.score)}</td>
               </tr>
               )
