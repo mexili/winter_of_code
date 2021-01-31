@@ -42,7 +42,7 @@ Apart from our in-house projects, we invite people who have built a project of t
 
 Mentor registration link: https://forms.gle/k2syZR2RYdBnm8w28
 
-### Winter Of Code
+### Scoring System for Winter Of Code |Mentor Requirements|
 
 Please add the following GitHub action in your repository:
 
