@@ -3,3 +3,4 @@
 * [Winter of Code - Leaderboard](winter_of_code_leaderboard.md)
 * [Winter of Code - Mentors](mentors.md)
 * [Code of Conduct](code_of_conduct.md)
+* [Prizes](prizes.md)
