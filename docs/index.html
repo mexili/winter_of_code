@@ -17,38 +17,38 @@
   <body>
     <div id="app"></div>
   </body>
-  
+
   <!-- docsify box react -->
   <script src="https://cdn.bootcss.com/react/15.6.1/react.js"></script>
   <script src="https://cdn.bootcss.com/react/15.6.1/react-dom.js"></script>
   <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
   <script src="//unpkg.com/docsify-demo-box-react@1.0.1/dist/docsify-demo-box-react.min.js"></script>
-  
+
   <!-- config -->
   <script>
     window.$docsify = {
       name: "mexili",
-      repo: "",
+      repo: "https://github.com/mexili/winter_of_code",
       loadSidebar: true,
       plugins: [
         (function () {
           var jsResources = [
-            '//cdn.bootcss.com/react/15.6.1/react.js',
-            '//cdn.bootcss.com/react/15.6.1/react-dom.js',
-          ].map(function (url) {
-            return '<script src="' + url + '"><' + '/script>'
-          }).join('\n')
-          return DemoBoxReact.create(jsResources)
-        })()
+            "//cdn.bootcss.com/react/15.6.1/react.js",
+            "//cdn.bootcss.com/react/15.6.1/react-dom.js",
+          ]
+            .map(function (url) {
+              return '<script src="' + url + '"><' + "/script>";
+            })
+            .join("\n");
+          return DemoBoxReact.create(jsResources);
+        })(),
       ],
     };
   </script>
-  
- <!-- Docsify v4 -->
+
+  <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 
   <!-- plugins -->
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-  
-  
 </html>
