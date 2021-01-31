@@ -42,6 +42,34 @@ Apart from our in-house projects, we invite people who have built a project of t
 
 Mentor registration link: https://forms.gle/k2syZR2RYdBnm8w28
 
+### Winter Of Code
+
+Please add the following GitHub action in your repository:
+
+1. Create a `labels.yml` file inside `.github/workflows` folder
+
+2. Copy the following snippet in the `labels.yml` file
+
+```
+name: 'Label Actions'
+on: 
+  pull_request:
+    types: labeled
+
+jobs:
+  add-score:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.label.name, 'user')
+    steps:
+      - run: |
+          echo ${{ github.event.label.name }}
+          SCORE=${{ github.event.label.name }}
+          echo $SCORE
+          curl --data "score=$SCORE" --request POST https://wocleaderboard-backend.herokuapp.com/updateLeaderBoard/
+```
+
+3. When accepting the PR, add the following label before merging it. `user=<username>:score=<score>`, e.g. if the user `sansyrox` has filled a relevant PR and you are allotting 100 marks to him, add the following label `user=sansyrox:score=100` to your **PR**.
+
 ### Leaderboard
 Students participating will contribute to the projects and in turn receive a score for their pull requests. These scores will be summed up and will be shown on our winter of code leaderboard. We will then have prizes for our top contributors.
 
@@ -62,7 +90,7 @@ CSSify provides a solution to all these problems, by offering a rock solid base 
 
 
 ### [Config Parser RS](https://github.com/mexili/configparser-rs)
-This crate provides the Ini struct which implements a basic configuration language which provides a structure similar to what’s found in Windows' ini files. You can use this to write Rust programs which can be customized by end users easily.
+This crate provides the Ini struct which implements a basic configuration language which provides a structure similar to what√ïs found in Windows' ini files. You can use this to write Rust programs which can be customized by end users easily.
 
 This is a simple configuration parsing utility with no dependencies built on Rust. It is inspired by Python's configparser.
 
