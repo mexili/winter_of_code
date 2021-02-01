@@ -99,8 +99,6 @@ Tech Stack:
 - Tailwind ( For building neat custom CSS components)
 - SVG Animations (If you wish to take the challenge)
 
-Project Maintainers: [Smaranjit Ghose](https://www.linkedin.com/in/smaranjitghose/), [Anush Bhatia](https://www.linkedin.com/in/anushbhatia/)
-
 
 ### [Config Parser RS](https://github.com/mexili/configparser-rs)
 This crate provides the Ini struct which implements a basic configuration language which provides a structure similar to whatÕs found in Windows' ini files. You can use this to write Rust programs which can be customized by end users easily.
