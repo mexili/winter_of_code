@@ -94,6 +94,11 @@ This crate provides the Ini struct which implements a basic configuration langua
 
 This is a simple configuration parsing utility with no dependencies built on Rust. It is inspired by Python's configparser.
 
+### [JagratiWebApp](https://github.com/garg3133/JagratiWebApp)
+Jagrati is an initiative by the students of IIITDM Jabalpur to provide education to poor and under-privileged children of nearby villages at our institute.
+
+This project is a little initiative from my side to help volunteers manage the classes and other day-to-day operations at Jagrati in a better way and make it easier for them to keep track of students, classwork-homework given to them, their attendances and other things and focus more on teaching than these side activities.
+
 ### [BlogSite](https://github.com/ALPHAVIO/BlogSite)
 'Blog' and 'blogging' are now loosely used for content creation and sharing on social media, especially when the content is long-form and one creates and shares content on regular basis.
 
