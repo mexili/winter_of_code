@@ -103,3 +103,8 @@ This project is a little initiative from my side to help volunteers manage the c
 'Blog' and 'blogging' are now loosely used for content creation and sharing on social media, especially when the content is long-form and one creates and shares content on regular basis.
 
 This is a dynamically updating Blog posting website developed primarily using Node Js with EJS template engine and Mongoose as ODM(Object Data Modeling library). Blogs are stored using Mongo DB.
+
+### [UniAuth](https://github.com/uniauth)
+UniAuth is written to allow anyone create a fully-private and secure identity provider within seconds. It implements an OAuth authentication flow. The backend is written in `NodeJS` using `TypeScript` and the frontend utilized `tailwind css`.
+
+Don't worry if you are not into web development, UniAuth needs client libraries in numerous languages (like Java, Kotlin, Python, PHP to name a few), implementations for different frameworks and documentations to help fellow developers to get started.     
