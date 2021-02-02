@@ -5,7 +5,7 @@
 Winter of Code is a program aimed to increase participation for the Google Summer of Code program among students in colleges and universities.
 Winter of Code is here to light up your winter spirits with the wide world of open source development. This initiative aims to prepare you for the grand Google Summer of Code. Join us for a month-long programming project with an open-source organization.
 
-As a part of the Winter of Code, students are paired with mentors. This initiative aims at developing your skills in real-world software development in a wide range of specializations. In turn, the participating organisation gets to know your potential and also gives you the correct exposure that you need i your formative years. Above all, we hope you get encouraged into the world of open source and develop more code for the benefit of all.
+As a part of the Winter of Code, students are paired with mentors. This initiative aims at developing your skills in real-world software development in a wide range of specializations. In turn, the participating organisation gets to know your potential and also gives you the correct exposure that you need in your formative years. Above all, we hope you get encouraged into the world of open source and develop more code for the benefit of all.
 
 Let's Build Something Awesome Together !!
 
@@ -115,7 +115,9 @@ This project is a little initiative from my side to help volunteers manage the c
 
 This is a dynamically updating Blog posting website developed primarily using Node Js with EJS template engine and Mongoose as ODM(Object Data Modeling library). Blogs are stored using Mongo DB.
 
+
 ### [UniAuth](https://github.com/uniauth)
 UniAuth is written to allow anyone create a fully-private and secure identity provider within seconds. It implements an OAuth authentication flow. The backend is written in `NodeJS` using `TypeScript` and the frontend utilized `tailwind css`.
 
 Don't worry if you are not into web development, UniAuth needs client libraries in numerous languages (like Java, Kotlin, Python, PHP to name a few), implementations for different frameworks and documentations to help fellow developers to get started.     
+
