@@ -89,12 +89,35 @@ Incog.ly is a peer to peer video conferencing app which keeps your identity anon
 CSSify provides a solution to all these problems, by offering a rock solid base which is customisable in all it's aspects. Common tasks such as defining layouts, brand colors, spacing utilities, breakpoints, typography, etc can now be completed with a few clicks with a live preview- enormously boosting your creative speed.
 
 
+
+### [Awesome Portfolio Websites](https://github.com/smaranjitghose/awesome-portfolio-websites)
+An open-source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world. We take care of the SEO and Design so that others can work on their projects without worrying about a place to showcase.
+
+Tech Stack:
+- HTML, CSS, Bootstrap, JavaScript (The defacto toolkit of any web dev)
+- React
+- Tailwind ( For building neat custom CSS components)
+- SVG Animations (If you wish to take the challenge)
+
+
 ### [Config Parser RS](https://github.com/mexili/configparser-rs)
 This crate provides the Ini struct which implements a basic configuration language which provides a structure similar to whatÕs found in Windows' ini files. You can use this to write Rust programs which can be customized by end users easily.
 
 This is a simple configuration parsing utility with no dependencies built on Rust. It is inspired by Python's configparser.
 
+### [JagratiWebApp](https://github.com/garg3133/JagratiWebApp)
+Jagrati is an initiative by the students of IIITDM Jabalpur to provide education to poor and under-privileged children of nearby villages at our institute.
+
+This project is a little initiative from my side to help volunteers manage the classes and other day-to-day operations at Jagrati in a better way and make it easier for them to keep track of students, classwork-homework given to them, their attendances and other things and focus more on teaching than these side activities.
+
 ### [BlogSite](https://github.com/ALPHAVIO/BlogSite)
 'Blog' and 'blogging' are now loosely used for content creation and sharing on social media, especially when the content is long-form and one creates and shares content on regular basis.
 
 This is a dynamically updating Blog posting website developed primarily using Node Js with EJS template engine and Mongoose as ODM(Object Data Modeling library). Blogs are stored using Mongo DB.
+
+
+### [UniAuth](https://github.com/uniauth)
+UniAuth is written to allow anyone create a fully-private and secure identity provider within seconds. It implements an OAuth authentication flow. The backend is written in `NodeJS` using `TypeScript` and the frontend utilized `tailwind css`.
+
+Don't worry if you are not into web development, UniAuth needs client libraries in numerous languages (like Java, Kotlin, Python, PHP to name a few), implementations for different frameworks and documentations to help fellow developers to get started.     
+
