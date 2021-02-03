@@ -121,3 +121,8 @@ UniAuth is written to allow anyone create a fully-private and secure identity pr
 
 Don't worry if you are not into web development, UniAuth needs client libraries in numerous languages (like Java, Kotlin, Python, PHP to name a few), implementations for different frameworks and documentations to help fellow developers to get started.     
 
+### [Aiden](https://github.com/mexili/aiden)
+Aiden is a web app utilising tensorflow.js, browser-based Machine Learning library, to enable accessible physiotherapy for the Visually Impaired and other people as well - talking through exercises by responding to users' postures in real-time.
+
+Aiden makes it easier for users to not only complete but to improve their techniques independently.
+
