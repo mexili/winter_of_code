@@ -22,4 +22,8 @@
     <td>Yash Kumar Verma</td>
     <td><a href="https://github.com/uniauth">UniAuth</a></td>
   </tr>
+  <tr>
+    <td>Shivay Lamba</td>
+    <td><a href="https://github.com/mexili/aiden">Aiden</a></td>
+  </tr>
 </table>
