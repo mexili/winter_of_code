@@ -6,8 +6,12 @@
     <th>Project</th>
   </tr>
     <tr>
-    <td>Smaranjit Ghose</td>
+      <td><a href="https://www.linkedin.com/in/smaranjitghose/">Smaranjit Ghose</a></td>
     <td><a href="https://github.com/smaranjitghose/awesome-portfolio-websites">Awesome Portfolio Website</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/anushbhatia/">Anush Bhatia</a></td>
+    <td><a href="https://github.com/smaranjitghose/DocLense">DocLense</a></td>
   </tr>
   <tr>
   <tr>
