@@ -130,3 +130,14 @@ Aiden is a web app utilising tensorflow.js, browser-based Machine Learning libra
 
 Aiden makes it easier for users to not only complete but to improve their techniques independently.
 
+### [AllNotes](https://github.com/harshcasper/allNotes)
+
+This Web Application powered by MERN Stack (`MongoDB`, `NodeJS`, `ReactJS`, `Express`) will be making use of intuitive User-Interface and User-Experience to allow Students to come onto a One-Stop Portal and share Resources and Notes related to their Syllabus and Subjects which can benefit the Society as a whole. 
+
+This Social Application would allow Students to connect over their love of Subjects and helping out of the Community in an effective way, benefitting a lot of Students in the longer run.
+
+### [Rotten Scripts](https://github.com/harshcasper/rotten-scripts)
+
+Rotten Scripts contains amazing and awesome scripts written in Python, JavaScript, Bash, Powershell, and more.
+
+Consider this repository as your personal space to find or add any new script that can make life easier for us and the Open Source community too, as a Developer, and find a utility of coding to burst out of boredom. 

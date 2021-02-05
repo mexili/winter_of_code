@@ -30,4 +30,9 @@
     <td>Shivay Lamba</td>
     <td><a href="https://github.com/mexili/aiden">Aiden</a></td>
   </tr>
+  <tr>
+    <td>Harsh Bardhan Mishra</td>
+    <td><a href="https://github.com/harshcasper/rotten-scripts">Rotten Scripts</a></td>
+    <td><a href="https://github.com/harshcasper/allNotes">All Notes</a></td>
+  </tr>
 </table>
