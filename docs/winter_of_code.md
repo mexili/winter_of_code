@@ -104,10 +104,14 @@ An open-source document scanner. It is an application which can be used to scan 
 
 A simple flutter based application that requires basic to intermediate level of coding for it.
 
-### [Config Parser RS](https://github.com/mexili/configparser-rs)
+### [configparser-rs](https://github.com/mexili/configparser-rs)
 This crate provides the Ini struct which implements a basic configuration language which provides a structure similar to whatÕs found in Windows' ini files. You can use this to write Rust programs which can be customized by end users easily.
 
 This is a simple configuration parsing utility with no dependencies built on Rust. It is inspired by Python's configparser.
+
+
+### [ini-rs](https://github.com/mexili/ini-rs)
+This is a simple macro utility built on top of configparser with no other dependencies built on Rust. For more advanced functions, you should use the configparser crate.
 
 ### [JagratiWebApp](https://github.com/garg3133/JagratiWebApp)
 Jagrati is an initiative by the students of IIITDM Jabalpur to provide education to poor and under-privileged children of nearby villages at our institute.
