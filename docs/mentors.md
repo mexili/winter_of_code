@@ -3,7 +3,7 @@
 <table>
   <tr>
     <th>Name</th>
-    <th>Project</th>
+    <th>Projects</th>
   </tr>
     <tr>
       <td><a href="https://www.linkedin.com/in/smaranjitghose/">Smaranjit Ghose</a></td>
@@ -32,7 +32,12 @@
   </tr>
   <tr>
     <td>Harsh Bardhan Mishra</td>
-    <td><a href="https://github.com/harshcasper/rotten-scripts">Rotten Scripts</a></td>
-    <td><a href="https://github.com/harshcasper/allNotes">All Notes</a></td>
+    <td><a href="https://github.com/harshcasper/rotten-scripts">Rotten Scripts</a><br><a href="https://github.com/harshcasper/allNotes">All Notes</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/QEDK">Ankit Maity</a></td>
+    <td><a href="https://github.com/mexili/configparser-rs">configparser</a><br><a href="https://github.com/mexili/ini-rs">ini</a></td>
   </tr>
 </table>
+</table>
+
