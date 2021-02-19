@@ -39,10 +39,15 @@ Thank you for your time and we are happy to hop on a call with you to discuss th
 Looking forward to hearing from you.
 
 Sincerely,
+
 Mexilli Org
 
 Website: https://mexili.github.io
+
 Twitter: https://twitter.com/mexiliorg
+
 Facebook: https://www.facebook.com/mexiliorg
+
 LinkedIn: https://www.linkedin.com/company/mexili/
+
 Discord: https://discord.gg/rXnkgFzJJ8
