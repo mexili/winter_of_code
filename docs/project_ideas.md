@@ -7,15 +7,11 @@ The basic project is built. We plan to add multiple features on the basic templa
 
 **Tasks to do**:
 
-\1. Add options for multiple T-shirts for a single user so that a user does never run out of canvas space.
-
-\2. Add authentication support for different social media platforms.
-
-\3. Add virtual rooms so that instead of sharing links, you can look at the list of people in the room and scribble on their e-shirts.
-
-\4. Add personalization for users like background themes, T-Shirt themes, etc.
-
-\5. If time permits, we would like to create a zero knowledge server to securely save the details on the backend with end to end encryption.
+1. Add options for multiple T-shirts for a single user so that a user does never run out of canvas space.
+2. Add authentication support for different social media platforms.
+3. Add virtual rooms so that instead of sharing links, you can look at the list of people in the room and scribble on their e-shirts.
+4. Add personalization for users like background themes, T-Shirt themes, etc.
+5. If time permits, we would like to create a zero knowledge server to securely save the details on the backend with end to end encryption.
 
 **Requirements**: ReactJS (preferred), Firebase, Node.js, Basic server-side knowledge.
 
@@ -27,15 +23,11 @@ The basic project is built. We plan to add multiple features on the basic templa
 
 **Tasks to do**:
 
-\1. To add multi device and multi browser support
-
-\2. Server side machine learning will replace client side machine learning
-
-\3. Add the feature of adding rooms in incogly
-
-\4. Add the feature of adding audio anonymisation using frequency analysis of audio
-
-\5. Create an automated deployment pipeline with tests for the above work
+1. To add multi device and multi browser support
+2. Server side machine learning will replace client side machine learning
+3. Add the feature of adding rooms in incogly
+4. Add the feature of adding audio anonymisation using frequency analysis of audio
+5. Create an automated deployment pipeline with tests for the above work
 
 **Requirements**: ReactJS , NodeJS, (good to have) Rust(WASM) and TensorflowJS
 
@@ -50,15 +42,11 @@ CSSify provides a solution to all these problems, by offering a rock solid base 
 
 **Tasks to do**:
 
-\1. To convert the library to a BEM focused version.
-
-\2. Add a feature to generate prebuilt custom components alongside the declarative model.
-
-\3. Improve the live preview system to reduce the lag due to prop drilling  
-
-\4. To reduce the bundle size by reducing the dependencies
-
-\5. If time permits, create a custom deployment pipeline.
+1. To convert the library to a BEM focused version.
+2. Add a feature to generate prebuilt custom components alongside the declarative model.
+3. Improve the live preview system to reduce the lag due to prop drilling  
+4. To reduce the bundle size by reducing the dependencies
+5. If time permits, create a custom deployment pipeline.
 
 **Requirements**: ReactJS , CSS/SCSS(required),  NodeJS, (good to have) and TensorflowJS
 
@@ -74,17 +62,12 @@ The basic project is built. We plan to add multiple features on the basic templa
 
 **Tasks to do**:
 
-\1. Use better pose calculation algorithms
-
-\2. Setting up of a basic backend ( authentication, leaderboard ). 
-
-\3. Adding new teachable machine pose models. 
-
-\4. Using WebRTC and Socket.io for multiple users to join. 
-
-\5. Refactoring code using Typescript and React
-
-\6. Add a testing suite for components using Jest.
+1. Use better pose calculation algorithms
+2. Setting up of a basic backend ( authentication, leaderboard ). 
+3. Adding new teachable machine pose models. 
+4. Using WebRTC and Socket.io for multiple users to join. 
+5. Refactoring code using Typescript and React
+6. Add a testing suite for components using Jest.
 
 **Requirements**: Typescript, React, NodeJS, Jest, TensorflowJS,  basic server side knowledge
 
